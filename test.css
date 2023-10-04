@@ -1,0 +1,13 @@
+h1{
+    /* taille de police */
+    font-size: 50px;
+}
+
+#mon-titre{
+    /*background: green; */
+    background-color: green;
+}
+
+.red{
+    color: red;
+}
